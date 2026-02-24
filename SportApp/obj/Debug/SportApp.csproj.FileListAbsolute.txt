@@ -1,0 +1,9 @@
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\SportApp.csproj.AssemblyReference.cache
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\MainWindow.baml
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\App.g.cs
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\SportApp_MarkupCompile.cache
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\SportApp.g.resources
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\SportApp.Properties.Resources.resources
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\SportApp.csproj.GenerateResource.cache
+C:\Users\Student 19\Downloads\SportApp\obj\Debug\SportApp.csproj.CoreCompileInputs.cache
